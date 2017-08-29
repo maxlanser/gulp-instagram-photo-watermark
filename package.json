@@ -1,0 +1,15 @@
+{
+  "name": "gulp-instagram",
+  "version": "1.0.0",
+  "description": "Task's Gulp for optimization of photos for Instagram",
+  "scripts": {
+    "insta": ""
+  },
+  "author": "Maxim Pogrebnoy <maxlanser@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.12.0",
+    "gulp-watermark": "0.0.1"
+  }
+}
